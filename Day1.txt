@@ -1,2 +1,2 @@
 create table emp1(id int, empname varchar(20));
-
+insert into emp1(id,empname) values (1,'diya');
